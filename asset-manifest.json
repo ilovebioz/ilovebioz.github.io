@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sectic/static/css/main.8ef63b32.chunk.css",
-    "main.js": "/sectic/static/js/main.91762a50.chunk.js",
-    "main.js.map": "/sectic/static/js/main.91762a50.chunk.js.map",
+    "main.js": "/sectic/static/js/main.3d694f44.chunk.js",
+    "main.js.map": "/sectic/static/js/main.3d694f44.chunk.js.map",
     "runtime~main.js": "/sectic/static/js/runtime~main.27df9a0b.js",
     "runtime~main.js.map": "/sectic/static/js/runtime~main.27df9a0b.js.map",
     "static/js/2.eed3406c.chunk.js": "/sectic/static/js/2.eed3406c.chunk.js",
     "static/js/2.eed3406c.chunk.js.map": "/sectic/static/js/2.eed3406c.chunk.js.map",
     "index.html": "/sectic/index.html",
-    "precache-manifest.d1afb3604caf9f6c517f6d0b62f94452.js": "/sectic/precache-manifest.d1afb3604caf9f6c517f6d0b62f94452.js",
+    "precache-manifest.cac48b135072efffaaa854363178995c.js": "/sectic/precache-manifest.cac48b135072efffaaa854363178995c.js",
     "service-worker.js": "/sectic/service-worker.js",
     "static/css/main.8ef63b32.chunk.css.map": "/sectic/static/css/main.8ef63b32.chunk.css.map"
   }
