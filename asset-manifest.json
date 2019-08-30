@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sectic/static/css/main.8ef63b32.chunk.css",
+    "main.js": "/sectic/static/js/main.3d118511.chunk.js",
+    "main.js.map": "/sectic/static/js/main.3d118511.chunk.js.map",
+    "runtime~main.js": "/sectic/static/js/runtime~main.27df9a0b.js",
+    "runtime~main.js.map": "/sectic/static/js/runtime~main.27df9a0b.js.map",
+    "static/js/2.eed3406c.chunk.js": "/sectic/static/js/2.eed3406c.chunk.js",
+    "static/js/2.eed3406c.chunk.js.map": "/sectic/static/js/2.eed3406c.chunk.js.map",
+    "index.html": "/sectic/index.html",
+    "precache-manifest.c9d340908abbd306383528f3239dbc94.js": "/sectic/precache-manifest.c9d340908abbd306383528f3239dbc94.js",
+    "service-worker.js": "/sectic/service-worker.js",
+    "static/css/main.8ef63b32.chunk.css.map": "/sectic/static/css/main.8ef63b32.chunk.css.map"
+  }
+}
