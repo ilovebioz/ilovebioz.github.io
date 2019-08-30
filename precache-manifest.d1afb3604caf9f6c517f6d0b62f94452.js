@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fa105176550f397099df22090596159",
+    "revision": "0a0a2db6c2e27c1e6e46d6211043b160",
     "url": "/sectic/index.html"
   },
   {
-    "revision": "1c176e93ffc458bf642f",
+    "revision": "e5e43c53f406cc3a8ac6",
     "url": "/sectic/static/css/main.8ef63b32.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sectic/static/js/2.eed3406c.chunk.js"
   },
   {
-    "revision": "1c176e93ffc458bf642f",
-    "url": "/sectic/static/js/main.3d118511.chunk.js"
+    "revision": "e5e43c53f406cc3a8ac6",
+    "url": "/sectic/static/js/main.91762a50.chunk.js"
   },
   {
     "revision": "e58734f0b037f25ad333",
