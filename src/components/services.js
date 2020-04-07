@@ -19,7 +19,7 @@ export default class Services extends Component{
                                 </span>
                                 <div className="desc">
                                     <h3>Innovative Ideas</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                    <p>Provide the most optimal and creative solutions at unbelievable prices</p>
                                 </div>
                             </div>
                         </div>
@@ -30,7 +30,7 @@ export default class Services extends Component{
                                 </span>
                                 <div className="desc">
                                     <h3>Software</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                    <p>Build complete software or custom modules: web, mobile, desktop, ...</p>
                                 </div>
                             </div>
                         </div>

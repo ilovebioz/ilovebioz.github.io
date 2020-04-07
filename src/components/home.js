@@ -13,9 +13,9 @@ export default class Home extends Component{
                                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                                         <div className="slider-text-inner js-fullheight">
                                             <div className="desc">
-                                                <h1>Hi! <br />I'm Jackson</h1>
-                                                <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
-                                                <p><a className="btn btn-primary btn-learn">Download CV <i className="icon-download4" /></a></p>
+                                                <h1>Hi! <br />Sectic</h1>
+                                                <h2>Go up with your <a href="https://sectic.com/" target="_blank">belief</a></h2>
+                                                <p><a className="btn btn-primary btn-learn">Our Works<i className="icon-download4" /></a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -29,8 +29,8 @@ export default class Home extends Component{
                                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text animated fadeInUp">
                                         <div className="slider-text-inner">
                                             <div className="desc">
-                                                <h1>I am <br />a Designer</h1>
-                                                <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
+                                                <h1>We are <br /> Experts</h1>
+                                                <h2>Most improved things can be improved by <a href="https://sectic.com/" target="_blank">sectic</a></h2>
                                                 <p><a className="btn btn-primary btn-learn">View Portfolio <i className="icon-briefcase3" /></a></p>
                                             </div>
                                         </div>

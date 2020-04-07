@@ -1,7 +1,7 @@
 {
   "name": "sectic",
   "version": "0.1.0",
-  "homepage": "https://ilovebioz.github.io/sectic",
+  "homepage": "https://ilovebioz.github.io",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
