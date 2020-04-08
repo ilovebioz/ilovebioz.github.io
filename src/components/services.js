@@ -7,8 +7,8 @@ export default class Services extends Component{
                 <div className="colorlib-narrow-content">
                     <div className="row">
                         <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
-                            <span className="heading-meta">What I do?</span>
-                            <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                            <span className="heading-meta">What We do?</span>
+                            <h2 className="colorlib-heading">Here are some of our expertise</h2>
                         </div>
                     </div>
                     <div className="row row-pt-md">
@@ -40,8 +40,8 @@ export default class Services extends Component{
                                   <i className="icon-phone3" />
                                 </span>
                                 <div className="desc">
-                                    <h3>Application</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                    <h3>Maintenance</h3>
+                                    <p>Upgrade, fix existing systems. We experience with unclear document projects</p>
                                 </div>
                             </div>
                         </div>
@@ -51,8 +51,8 @@ export default class Services extends Component{
                                   <i className="icon-layers2" />
                                 </span>
                                 <div className="desc">
-                                    <h3>Graphic Design</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                    <h3>System Management</h3>
+                                    <p>Providing full infrastructure, management, maintenance with affordable annual fee</p>
                                 </div>
                             </div>
                         </div>
