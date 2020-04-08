@@ -62,8 +62,8 @@ export default class Services extends Component{
                                   <i className="icon-data" />
                                 </span>
                                 <div className="desc">
-                                    <h3>Software</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                    <h3>Smart Systems</h3>
+                                    <p>We own the smart products, services such as Smart Apartment, Surveillance</p>
                                 </div>
                             </div>
                         </div>
@@ -73,8 +73,8 @@ export default class Services extends Component{
                                   <i className="icon-phone3" />
                                 </span>
                                 <div className="desc">
-                                    <h3>Application</h3>
-                                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+                                    <h3>Integration</h3>
+                                    <p>A large system requires many components. We put them together as a solution</p>
                                 </div>
                             </div>
                         </div>
