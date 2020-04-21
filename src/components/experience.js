@@ -17,7 +17,7 @@ export default class Experience extends Component{
                                 <article className="timeline-entry animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
                                     <div className="timeline-entry-inner">
                                         <div className="timeline-icon color-1">
-                                            <i className="icon-pen2" />
+                                            <i className="icon-pen2"></i>
                                         </div>
                                         <div className="timeline-label">
                                             <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
@@ -28,7 +28,7 @@ export default class Experience extends Component{
                                 <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
                                     <div className="timeline-entry-inner">
                                         <div className="timeline-icon color-2">
-                                            <i className="icon-pen2" />
+                                            <i className="icon-pen2"></i>
                                         </div>
                                         <div className="timeline-label">
                                             <h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
@@ -39,7 +39,7 @@ export default class Experience extends Component{
                                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                                     <div className="timeline-entry-inner">
                                         <div className="timeline-icon color-3">
-                                            <i className="icon-pen2" />
+                                            <i className="icon-pen2"></i>
                                         </div>
                                         <div className="timeline-label">
                                             <h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
@@ -50,7 +50,7 @@ export default class Experience extends Component{
                                 <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                                     <div className="timeline-entry-inner">
                                         <div className="timeline-icon color-4">
-                                            <i className="icon-pen2" />
+                                            <i className="icon-pen2"></i>
                                         </div>
                                         <div className="timeline-label">
                                             <h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
@@ -61,7 +61,7 @@ export default class Experience extends Component{
                                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                                     <div className="timeline-entry-inner">
                                         <div className="timeline-icon color-5">
-                                            <i className="icon-pen2" />
+                                            <i className="icon-pen2"></i>
                                         </div>
                                         <div className="timeline-label">
                                             <h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>

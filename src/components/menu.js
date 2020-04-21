@@ -25,8 +25,8 @@ export default class Menu extends Component{
                     </div>
                 </nav>
                 <div className="colorlib-footer">
-                    <p><small>© {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                        Copyright ©2019 All rights reserved <br/> Designed with <i className="icon-heart" aria-hidden="true" /> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                    <p><small>&copy; {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <br/> Designed with <i className="icon-heart" aria-hidden="true" ></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
                         {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. <span>Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash.com</a></span>*/}</small></p>
                     <ul>
                         <li><a href="#"><i className="icon-facebook2" /></a></li>

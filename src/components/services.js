@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react'
 
 export default class Services extends Component{
-    render() {
+    render(){
         return (
             <section className="colorlib-services" data-section="services">
                 <div className="colorlib-narrow-content">
@@ -15,7 +15,7 @@ export default class Services extends Component{
                         <div className="col-md-4 text-center animate-box fadeInUp animated">
                             <div className="services color-1">
                                 <span className="icon">
-                                  <i className="icon-bulb" />
+                                  <i className="icon-bulb"></i>
                                 </span>
                                 <div className="desc">
                                     <h3>Innovative Ideas</h3>
@@ -26,7 +26,7 @@ export default class Services extends Component{
                         <div className="col-md-4 text-center animate-box fadeInUp animated">
                             <div className="services color-2">
                                 <span className="icon">
-                                  <i className="icon-data" />
+                                  <i className="icon-data"></i>
                                 </span>
                                 <div className="desc">
                                     <h3>Software</h3>
@@ -37,7 +37,7 @@ export default class Services extends Component{
                         <div className="col-md-4 text-center animate-box fadeInUp animated">
                             <div className="services color-3">
                                 <span className="icon">
-                                  <i className="icon-phone3" />
+                                  <i className="icon-phone3"></i>
                                 </span>
                                 <div className="desc">
                                     <h3>Maintenance</h3>
@@ -48,7 +48,7 @@ export default class Services extends Component{
                         <div className="col-md-4 text-center animate-box fadeInUp animated">
                             <div className="services color-4">
                                 <span className="icon">
-                                  <i className="icon-layers2" />
+                                  <i className="icon-layers2"></i>
                                 </span>
                                 <div className="desc">
                                     <h3>System Management</h3>
@@ -59,7 +59,7 @@ export default class Services extends Component{
                         <div className="col-md-4 text-center animate-box fadeInUp animated">
                             <div className="services color-5">
                                 <span className="icon">
-                                  <i className="icon-data" />
+                                  <i className="icon-data"></i>
                                 </span>
                                 <div className="desc">
                                     <h3>Smart Systems</h3>
@@ -70,7 +70,7 @@ export default class Services extends Component{
                         <div className="col-md-4 text-center animate-box fadeInUp animated">
                             <div className="services color-6">
                                 <span className="icon">
-                                  <i className="icon-phone3" />
+                                  <i className="icon-phone3"></i>
                                 </span>
                                 <div className="desc">
                                     <h3>Integration</h3>

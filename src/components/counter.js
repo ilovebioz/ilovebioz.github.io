@@ -4,7 +4,7 @@ export default class Counter extends Component{
     render() {
         return (
             <div id="colorlib-counter" className="colorlib-counters animated" style={{backgroundImage: 'url(images/cover_bg_1.jpg)'}} data-stellar-background-ratio="0.5">
-                <div className="overlay" />
+                <div className="overlay"/>
                 <div className="colorlib-narrow-content">
                     <div className="row">
                     </div>

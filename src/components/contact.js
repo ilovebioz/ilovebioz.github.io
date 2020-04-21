@@ -33,18 +33,15 @@ export default class Contact extends Component{
             })
         }).then((response) => response.json())
             .then((json) => {
-                console.log(json);
-                //return json.movies;
                 this.setState({submitted: true, submitResult: true});
             })
             .catch((error) => {
-                console.error(error);
                 this.setState({submitted: true, submitResult: false});
             });
     };
     render() {
         return (
-            <section className="colorlib-contact js-fullheight" data-section="contact">
+            <section className="colorlib-contact" data-section="contact">
                 <div className="colorlib-narrow-content">
                     <div className="row">
                         <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
@@ -62,7 +59,7 @@ export default class Contact extends Component{
                         <div className="col-md-5">
                             <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
                                 <div className="colorlib-icon">
-                                    <i className="icon-globe-outline" />
+                                    <i className="icon-globe-outline" ></i>
                                 </div>
                                 <div className="colorlib-text">
                                     <p><a href="#">info@sectic.com</a></p>
@@ -70,10 +67,10 @@ export default class Contact extends Component{
                             </div>
                             <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
                                 <div className="colorlib-icon">
-                                    <i className="icon-map" />
+                                    <i className="icon-map" ></i>
                                 </div>
                                 <div className="colorlib-text">
-                                    <p>233 Nguyen Trai Street, Ward 2, Dist 5 Ho Chi Minh</p>
+                                    233 Nguyen Trai Str, Ward 2, Dist 5 HoChiMinh
                                 </div>
                             </div>
                             <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">

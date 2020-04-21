@@ -46,7 +46,7 @@ export default class Home extends Component{
                             <div className="row">
                                 <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
                                     <div className="hire">
-                                        <h2>We are happy to know you <br />that 300+ projects done successfully!</h2>
+                                        <h2>We are happy to know you <br />that 30+ projects done successfully!</h2>
                                         <a href="#" className="btn-hire">Contact us</a>
                                     </div>
                                 </div>

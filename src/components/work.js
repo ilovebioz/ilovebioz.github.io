@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react'
 
 export default class Work extends Component{
-    render() {
+    render(){
         return (
             <section className="colorlib-work" data-section="work">
                 <div className="colorlib-narrow-content">
@@ -24,9 +24,9 @@ export default class Work extends Component{
                                         <h3><a href="work.html">Work 01</a></h3>
                                         <span>Website</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="#"><i className="icon-share3"></i></a></span>
+                                            <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                            <span><a href="#"><i className="icon-heart"></i> 49</a></span>
                                         </p>
                                     </div>
                                 </div>
@@ -39,9 +39,9 @@ export default class Work extends Component{
                                         <h3><a href="work.html">Work 02</a></h3>
                                         <span>Animation</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="#"><i className="icon-share3"></i></a></span>
+                                            <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                            <span><a href="#"><i className="icon-heart"></i> 49</a></span>
                                         </p>
                                     </div>
                                 </div>
@@ -54,9 +54,9 @@ export default class Work extends Component{
                                         <h3><a href="work.html">Work 03</a></h3>
                                         <span>Illustration</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="#"><i className="icon-share3"></i></a></span>
+                                            <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                            <span><a href="#"><i className="icon-heart"></i> 49</a></span>
                                         </p>
                                     </div>
                                 </div>
@@ -69,9 +69,9 @@ export default class Work extends Component{
                                         <h3><a href="work.html">Work 04</a></h3>
                                         <span>Application</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="#"><i className="icon-share3"></i></a></span>
+                                            <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                            <span><a href="#"><i className="icon-heart"></i> 49</a></span>
                                         </p>
                                     </div>
                                 </div>
@@ -84,9 +84,9 @@ export default class Work extends Component{
                                         <h3><a href="work.html">Work 05</a></h3>
                                         <span>Graphic, Logo</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="#"><i className="icon-share3"></i></a></span>
+                                            <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                            <span><a href="#"><i className="icon-heart"></i> 49</a></span>
                                         </p>
                                     </div>
                                 </div>
@@ -99,9 +99,9 @@ export default class Work extends Component{
                                         <h3><a href="work.html">Work 06</a></h3>
                                         <span>Web Design</span>
                                         <p className="icon">
-                                            <span><a href="#"><i className="icon-share3" /></a></span>
-                                            <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                            <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            <span><a href="#"><i className="icon-share3"></i></a></span>
+                                            <span><a href="#"><i className="icon-eye"></i> 100</a></span>
+                                            <span><a href="#"><i className="icon-heart"></i> 49</a></span>
                                         </p>
                                     </div>
                                 </div>
@@ -110,7 +110,7 @@ export default class Work extends Component{
                     </div>
                     <div className="row">
                         <div className="col-md-12 animate-box">
-                            <p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+                            <p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload"></i></a></p>
                         </div>
                     </div>
                 </div>
